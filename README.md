@@ -1,105 +1,79 @@
-<div align="center" style="background:#0b0f1a;padding:40px;border-radius:20px;font-family:'Segoe UI',sans-serif;color:#e6e6eb;">
+<h1 align="center">Hey, I'm Tuhin Subhra Sikdar 👋</h1>
 
-  <!-- HERO -->
-  <h1 style="font-size:38px;margin-bottom:8px;
-  background:linear-gradient(90deg,#7cffcb,#5da9ff,#c77dff);
-  -webkit-background-clip:text;color:transparent;">
-    Hey, I'm Tuhin Subhra Sikdar 👋
-  </h1>
+<h3 align="center">
+CMS Developer • SEO Analyst • Automation Explorer 🇮🇳
+</h3>
 
-  <h3 style="font-weight:400;color:#9aa4ff;">
-    CMS Developer • SEO Analyst • Automation Explorer 🇮🇳
-  </h3>
+<p align="center">
+I build automation-powered web apps, scalable CMS solutions, and tools that eliminate repetitive work using
+<b>Python, Django & n8n</b>.
+</p>
 
-  <p style="max-width:720px;margin-top:16px;color:#b8c1ff;">
-    I build <b>automation-powered web apps</b>, scalable CMS solutions, and
-    tools that eliminate repetitive work using <b>Python, Django & n8n</b>.
-  </p>
+---
 
-  <br/>
+### 🚀 Currently Working
+> **RecipeHub** — A dynamic recipe-sharing web application with backend logic and automation
 
-  <!-- BENTO GRID -->
-  <div style="
-    display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
-    gap:18px;
-    margin-top:30px;
-  ">
+---
 
-    <!-- CARD -->
-    <div style="background:#11162a;padding:22px;border-radius:16px;
-    box-shadow:0 0 20px rgba(93,169,255,0.15);">
-      <h3 style="color:#7cffcb;">🚀 Currently Working</h3>
-      <p>RecipeHub – A dynamic recipe-sharing web app</p>
-    </div>
+### 🌱 Currently Learning
+- Python Automation  
+- n8n Workflows  
+- Web Scraping Techniques  
+- Django & Backend Concepts  
 
-    <div style="background:#11162a;padding:22px;border-radius:16px;
-    box-shadow:0 0 20px rgba(199,125,255,0.15);">
-      <h3 style="color:#c77dff;">🌱 Learning</h3>
-      <p>
-        Python Automation<br/>
-        n8n Workflows<br/>
-        Web Scraping<br/>
-        Django Backend
-      </p>
-    </div>
+---
 
-    <div style="background:#11162a;padding:22px;border-radius:16px;
-    box-shadow:0 0 20px rgba(124,255,203,0.15);">
-      <h3 style="color:#5da9ff;">🧠 What I Do</h3>
-      <p>
-        I mix <b>code + logic + automation</b> to build efficient systems,
-        reduce manual effort, and solve real-world problems.
-      </p>
-    </div>
+### 🧠 What I Do
+I’m a **tech-driven web developer** who enjoys building  
+automation-powered workflows, scalable CMS websites,  
+and practical tools that reduce manual effort.  
+I like mixing **code + logic + automation** to solve real-world problems efficiently.
 
-    <div style="background:#11162a;padding:22px;border-radius:16px;
-    box-shadow:0 0 20px rgba(93,169,255,0.15);">
-      <h3 style="color:#7cffcb;">🤝 Open to Collaborate</h3>
-      <p>
-        Automation (n8n, Python)<br/>
-        CMS & Backend Logic<br/>
-        Data Scraping Tools
-      </p>
-    </div>
+---
 
-  </div>
+### 🤝 Open to Collaborate On
+- Automation projects (n8n, Python workflows)
+- CMS & backend logic enhancements
+- Data scraping & processing tools
 
-  <br/><br/>
+---
 
-  <!-- LINKS -->
-  <div style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;">
-    <a href="https://www.linkedin.com/in/tuhin-subhra-sikdar/"
-       style="color:#0b0f1a;background:#7cffcb;
-       padding:10px 18px;border-radius:30px;
-       font-weight:600;text-decoration:none;">
-       LinkedIn
-    </a>
+### 💬 Ask Me About
+Python automation • n8n workflows • web scraping • CMS development • performance optimization
 
-    <a href="mailto:tuhinsubhrasikdar@gmail.com"
-       style="color:#0b0f1a;background:#5da9ff;
-       padding:10px 18px;border-radius:30px;
-       font-weight:600;text-decoration:none;">
-       Email Me
-    </a>
-  </div>
+---
 
-  <br/>
+### 🔗 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/tuhin-subhra-sikdar/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://instagram.com/tuhin_subhra_sikdar" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+</p>
 
-  <!-- TECH STACK -->
-  <h2 style="color:#c77dff;margin-top:40px;">🛠 Tech Stack</h2>
+---
 
-  <p>
-    Python • Django • n8n • Web Scraping • CMS • SEO • Bootstrap • JS • Pandas • Selenium
-  </p>
+### 🛠 Languages & Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40"/>
+</p>
 
-  <br/>
+---
 
-  <!-- STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tuhinsubhrasikdar&show_icons=true&theme=tokyonight&hide_border=true" />
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=tuhinsubhrasikdar&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhinsubhrasikdar&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhinsubhrasikdar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
