@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Tuhin Subhra Sikdar 👋</h1>
 
 <h3 align="center">
-CMS Developer • SEO Analyst • Automation Explorer 🇮🇳
+CMS Developer • SEO Analyst • Automation & Scraper 🇮🇳
 </h3>
 
 <p align="center">
@@ -12,12 +12,13 @@ I build automation-powered web apps, scalable CMS solutions, and tools that elim
 ---
 
 ### 🚀 Currently Working
-> **RecipeHub** — A dynamic recipe-sharing web application with backend logic and automation
+> **SERP Scraping** — Scraping SERP (Black & White Hatted) for research purpose
 
 ---
 
 ### 🌱 Currently Learning
-- Python Automation  
+- Python Automation
+- Data Analysis & Scraping Data
 - n8n Workflows  
 - Web Scraping Techniques  
 - Django & Backend Concepts  
@@ -26,9 +27,9 @@ I build automation-powered web apps, scalable CMS solutions, and tools that elim
 
 ### 🧠 What I Do
 I’m a **tech-driven web developer** who enjoys building  
-automation-powered workflows, scalable CMS websites,  
+automation-powered workflows, scalable CMS websites, Mini Scraping tools,
 and practical tools that reduce manual effort.  
-I like mixing **code + logic + automation** to solve real-world problems efficiently.
+I like mixing **code + logic + automation + scraping** to solve real-world problems efficiently.
 
 ---
 
